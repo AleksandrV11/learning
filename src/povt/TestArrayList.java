@@ -9,8 +9,6 @@ public class TestArrayList {
         arreyList.add(6);
         arreyList.add(6);
         arreyList.add(6);
-        arreyList.add(9);
-        arreyList.add(6);
         arreyList.add(6);
         arreyList.add(6);
         arreyList.add(6);
